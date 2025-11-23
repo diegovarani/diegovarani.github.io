@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libri on My New Hugo Site</title>
+    <link>https://example.org/tags/libri/</link>
+    <description>Recent content in Libri on My New Hugo Site</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/libri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Titolo del libro – Autore</title>
+      <link>https://example.org/posts/il-primo-libro/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/il-primo-libro/</guid>
+      <description>&lt;h2 id=&#34;-valutazione&#34;&gt;⭐ Valutazione&lt;/h2&gt;
+&lt;p&gt;⭐⭐⭐⭐☆&lt;/p&gt;
+&lt;h2 id=&#34;-breve-descrizione-no-spoiler&#34;&gt;📚 Breve descrizione (no spoiler)&lt;/h2&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;-cosa-mi-ha-colpito&#34;&gt;💭 Cosa mi ha colpito&lt;/h2&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;-a-chi-lo-consiglio&#34;&gt;🎯 A chi lo consiglio&lt;/h2&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;-link&#34;&gt;🔗 Link&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Goodreads: &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
