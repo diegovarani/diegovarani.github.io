@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/libri/</loc>
+    <loc>https://diegovarani.github.io/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://diegovarani.github.io/tags/libri/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://diegovarani.github.io/posts/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://diegovarani.github.io/tags/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/il-primo-libro/</loc>
+    <loc>https://diegovarani.github.io/posts/il-primo-libro/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://diegovarani.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://diegovarani.github.io/about/</loc>
   </url>
 </urlset>

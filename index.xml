@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Diario di bordo</title>
+    <link>https://diegovarani.github.io/</link>
+    <description>Recent content on Diario di bordo</description>
     <generator>Hugo -- 0.152.2</generator>
-    <language>en-us</language>
+    <language>en-it</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://diegovarani.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Titolo del libro – Autore</title>
-      <link>https://example.org/posts/il-primo-libro/</link>
+      <link>https://diegovarani.github.io/posts/il-primo-libro/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/il-primo-libro/</guid>
+      <guid>https://diegovarani.github.io/posts/il-primo-libro/</guid>
       <description>&lt;h2 id=&#34;-valutazione&#34;&gt;⭐ Valutazione&lt;/h2&gt;
 &lt;p&gt;⭐⭐⭐⭐☆&lt;/p&gt;
 &lt;h2 id=&#34;-breve-descrizione-no-spoiler&#34;&gt;📚 Breve descrizione (no spoiler)&lt;/h2&gt;
@@ -28,9 +28,9 @@
     </item>
     <item>
       <title>Chi sono</title>
-      <link>https://example.org/about/</link>
+      <link>https://diegovarani.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://diegovarani.github.io/about/</guid>
       <description>&lt;p&gt;Ciao! Sono un lettore con una vita piena (lavoro, famiglia, ecc.) che si ritaglia ogni giorno un po’ di tempo per leggere.
 Questo blog raccoglie le mie recensioni personali.&lt;/p&gt;</description>
     </item>
